@@ -16,12 +16,12 @@
     | Acco Suede Grain Vinyl Round Ring Binder | Office Supplies | Central | 0.556 |
 
 3b.	How many of such products fall under the three product categories? Mr. Bid will like to know which category has the most products below the Average Revenue per Product
-    | Region       | Furniture  | Office_Supply |Technology |
-    | -------------| -----------| ------------- |-----------|
-    | Central      | 59         | 261           | 51        |
-    | East         | 84         | 271           | 82        |
-    | South        | 57         | 159           | 42        |
-    | West         | 102        | 315           | 82        |
+    | Region       | Furniture  | Office_Supply | Technology |
+    | -------------| -----------| ------------- |------------|
+    | Central      | 59         | 261           | 51         |
+    | East         | 84         | 271           | 82         |
+    | South        | 57         | 159           | 42         |
+    | West         | 102        | 315           | 82         |
 
 4.	Find out the Y-O-Y growth rate from 2014 – 2017. (Your answer should be rounded to 3 decimal places, and show the “%” sign)
     | YOY_2015      | YOY_2016    | YOY_2017 |
