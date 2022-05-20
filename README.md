@@ -2,7 +2,18 @@
 
 # A simple project that analyzes sales data 
  
- FIRST THINGS FIRST. 
+Before you begin, there are a few things you should note.
+- Total Average Revenue per Customer (product) = Total Revenue/ Total number of customers (products) 
+- Year-Over-Year growth rate = (Total Revenue from current year/ Total Revenue from previous year) – 1 
+  OR (Total Revenue from current year – Total Revenue from previous year) / Total Revenue from previous year
+- Revenue = sales * quantity; COGS = Profit – Revenue
+- To get your year values, make use of the “Ship_date” column (i.e. extract your year from the ship date)
+- Whatever you do, the original table should not be altered (i.e, do not insert, update or delete anything from the original table.
+- The data you will be working with is a super store data gotten from kaggle.com
+
+# Let's begin.
+
+FIRST THINGS FIRST. 
 1.	Clean Data. Check for unwanted columns, duplicates, etc. (Free-style, however you want to clean your data)
 
 2.	Find out the Total Average Revenue per Customer and the Total Average Revenue per Product for the year 2017. (return values in 2 decimal places)
