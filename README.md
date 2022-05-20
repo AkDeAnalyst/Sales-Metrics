@@ -1,4 +1,4 @@
-### Sales-Metrics
+## Sales-Metrics
 
 # A simple project that analyzes sales data 
  
@@ -16,6 +16,7 @@
     | Acco Suede Grain Vinyl Round Ring Binder | Office Supplies | Central | 0.556 |
 
 3b.	How many of such products fall under the three product categories? Mr. Bid will like to know which category has the most products below the Average Revenue per Product
+
     | Region       | Furniture  | Office_Supply | Technology |
     | -------------| -----------| ------------- |------------|
     | Central      | 59         | 261           | 51         |
@@ -49,6 +50,7 @@
     | California|	West	| 37.41	 | 254.4761026     |
 
 7.	Return a table that shows the total number of orders received on each day of the week for year 2014, 2015, 2016 and 2017.
+8.	
    | day_of_week | orders14 |   orders15  |  orders16 | orders17   |
    |------------ |----------| ----------- |-----------| -----------|
    | Friday      |    174   |     192     |     242   |      308   |
