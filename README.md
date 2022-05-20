@@ -9,7 +9,9 @@ Before you begin, there are a few things you should note.
 - Revenue = sales * quantity; COGS = Profit – Revenue
 - To get your year values, make use of the “Ship_date” column (i.e. extract your year from the ship date)
 - Whatever you do, the original table should not be altered (i.e, do not insert, update or delete anything from the original table.
+- Some of the tables below are not complete. The purpose of including the tables is to give an idea of what your result should look like.
 - The data you will be working with is a super store data gotten from kaggle.com
+
 
 # Let's begin.
 
