@@ -1,4 +1,4 @@
-## Sales-Metrics
+### Sales-Metrics
 
 # A simple project that analyzes sales data 
  
