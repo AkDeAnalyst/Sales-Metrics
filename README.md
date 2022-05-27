@@ -24,10 +24,10 @@ FIRST THINGS FIRST.
 	| 1387.45            |    636.35	 |
 
 3.	Give a list of all products that generated revenue below the TAR_Product (Showing the least revenues first)
+	Product_name					Category	Region	Revenue
+	---------------------------------------------------------------------------------
+	Acco Suede Grain Vinyl Round Ring Binder	Office_Supply	Central	 0.556
 
-	    | Product_name 				| Category 	 | Region | Revenue |
-	    |-------------------------------------------|----------------|--------|---------|
-	    | Acco Suede Grain Vinyl Round Ring Binder  | Office Supplies| Central| 0.556   |
 
 3b. How many of such products fall under the three product categories? Mr. Bid will like to know which category has the most products below the Average Revenue/Product
 
